@@ -1,7 +1,6 @@
 # Skill Swap Platform
 
 A full-stack web application where users can exchange skills with each other. Built with React, Node.js, Express, MongoDB, and Socket.IO for real-time chat functionality.
-
 ## 🚀 Features
 
 ### Core Features
@@ -268,3 +267,4 @@ For support and questions:
 - Tailwind CSS for the utility-first styling
 - Socket.IO for real-time functionality
 - MongoDB for the flexible database solution
+
